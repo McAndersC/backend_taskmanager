@@ -19,7 +19,7 @@ SERVER_HOST=http://localhost:3042
 MONGODB_URI=mongodb://127.0.0.1:27017/mcdm-takmanager
 
 # JWT
-JWT_EXPIRES_IN="1t"
+JWT_EXPIRES_IN="1h"
 JWT_SECRET="8e18fa26acc704d3ca37fea29e17e8e024423a7c3eab4b76390a94ac579c20f0"
 ```
 
